@@ -4,6 +4,8 @@
 
 <br> saya sudah buat vidio dan ternyata tidak bisa di kirim ke sini karna file terlalu besar jadi saya kirim ss aja ya pak.</br>
 <img width="185" alt="9" src="https://user-images.githubusercontent.com/81343412/126024599-70240d82-9707-4087-b60f-efd3e6334e19.PNG">
+<br>link youtubenya 
+https://youtu.be/benMRsPmlUc </br>
 <br> Hasil Pemrograman Web </br>
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/81343412/126024453-b40a9c69-1072-45e4-982f-20c7cd3f65d0.PNG">
 <img width="960" alt="2" src="https://user-images.githubusercontent.com/81343412/126024457-d2895d4a-6dde-418f-b5a8-6aebf948621f.PNG">
